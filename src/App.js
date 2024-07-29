@@ -94,7 +94,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="Whatsapp"
+          title="TextUtils"
           first_variable="Chats"
           mode={mode}
           bgMode={bgMode}

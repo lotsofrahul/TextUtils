@@ -99,5 +99,5 @@ Navbar.propTypes = {
 // };
 
 Navbar.defaultProps = {
-  title: "defaulttile",
+  title: "Set Title here",
 };
